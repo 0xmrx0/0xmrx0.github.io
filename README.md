@@ -1,4 +1,6 @@
 # Hacker's Stuff
+> powered by 0xmrsecurity
+
 
 #### Cheatsheets 
 > [!WARNING]
@@ -10,8 +12,10 @@
 - <a href="https://0xmrsecurity.github.io/posts/aws_enum/">AWS_Priv_Esc</a> 
 
 #### Poc's
+> [!Public Exploits]
+> Some Public Know Exploits are written by me...
 
-[CVE-2024-46987](https://github.com/0xmrsecurity/Public_Poc/tree/main/Camaleon%20CMS(CVE-2024-46987))
+- <a href="https://github.com/0xmrsecurity/Public_Poc/tree/main/Camaleon%20CMS(CVE-2024-46987)">CVE-2024-46987</a>
 
 
 
