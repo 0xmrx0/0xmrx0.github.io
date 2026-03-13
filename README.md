@@ -2,4 +2,4 @@
 
  <a href="https://0xmrsecurity.github.io/posts/linux_enum/">Linux-Priv-Esc</a> 
 
-[linux_Priv-Esc](https://0xmrsecurity.github.io/posts/linux_enum/)
+[Public Exploit's POC](https://github.com/0xmrsecurity/Public_Poc/)
