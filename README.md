@@ -11,7 +11,7 @@
 - <a href="https://0xmrsecurity.github.io/posts/aws_enum/">AWS_Priv_Esc</a> 
 
 #### Poc's
-> [!Proof of concept]
+> [!WARNING]
 > Only a few of the public exploits I've written and currently documented...
 
 - <a href="https://github.com/0xmrsecurity/Public_Poc/tree/main/Camaleon%20CMS(CVE-2024-46987)">CVE-2024-46987___LFI</a>
