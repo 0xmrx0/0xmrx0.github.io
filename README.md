@@ -1,5 +1,4 @@
 # Hacker's Stuff
-> powered by 0xmrsecurity
 
 
 #### Cheatsheets 
@@ -13,10 +12,14 @@
 
 #### Poc's
 > [!Public Exploits]
-> Some Public Know Exploits are written by me...
+> Few Public Know Exploits are written by me...
 
-- <a href="https://github.com/0xmrsecurity/Public_Poc/tree/main/Camaleon%20CMS(CVE-2024-46987)">CVE-2024-46987</a>
-
-
+- <a href="https://github.com/0xmrsecurity/Public_Poc/tree/main/Camaleon%20CMS(CVE-2024-46987)">CVE-2024-46987___LFI</a>
+- <a href="https://github.com/0xmrsecurity/Public_Poc/tree/main/CVE-2025-9074">CVE-2025-9074___Docker_API_RCE</a>
+- <a href="https://github.com/0xmrsecurity/Public_Poc/tree/main/D-TALE__RCE">CVE-2026-27194___D-tale_RCE</a>
+- <a href="https://github.com/0xmrsecurity/Public_Poc/tree/main/Telnet%20(CVE-2026-24061)">CVE-2026-24061___ROOT</a>
+- <a href="https://github.com/0xmrsecurity/Public_Poc/tree/main/wings_FTP_Server">CVE-2025-47812___Wings_RCE</a>
+- <a href="https://github.com/0xmrsecurity/Public_Poc/tree/main/needrestart_3.7">needrestart 3.7</a>
+ 
 
 ##### adding soon...
